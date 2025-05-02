@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-color: aquamarine;
+}
+section{
+    background-color: peru;
+    display: flex;
+    justify-content: space-between;
+    margin: 30vh;
+}
+
+div{
+    justify-content: center;
+    padding: 10vh;
+}
+h1{
+    text-align: center;
+}
+p{
+    display: none;
+}
